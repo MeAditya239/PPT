@@ -1,0 +1,25 @@
+command :
+
+BDA  practicals
+
+lab 2:
+python filename.py
+Enter the file name : samplefile.txt
+enter the text : the
+
+
+lab 3: 
+
+python filename.py
+
+
+lab 4 :
+python filename.py textfilename.txt
+ex(python filename.py no.txt)
+
+
+lab 5:
+
+modify the path of the Titanic dataset in the code and then run it.
+
+python filename.py
